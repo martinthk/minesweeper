@@ -12,3 +12,5 @@ The player uses the numbers displayed in the squares to deduce the contents of o
 
 ## Functions
 1. Load pre-existing boards
+2. Generate random boards
+3. Count mines in board
