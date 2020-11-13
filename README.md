@@ -13,7 +13,7 @@ The player uses the numbers displayed in the squares to deduce the contents of o
 ## Functions
 1. Load pre-existing boards
 2. Generate random boards
-3. Count mines in board
+3. Count number of mines that surrounds each square
 4. Play game by entering locations
 5. Brute-Force to generate solution
 5. Exit the game at any time
