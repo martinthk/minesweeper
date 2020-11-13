@@ -14,3 +14,6 @@ The player uses the numbers displayed in the squares to deduce the contents of o
 1. Load pre-existing boards
 2. Generate random boards
 3. Count mines in board
+4. Play game by entering locations
+5. Brute-Force to generate solution
+5. Exit the game at any time
